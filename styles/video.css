@@ -67,6 +67,7 @@
 .video-url {
     text-decoration: none;
     color: black;
+
 }
 
 .video-title {
@@ -87,6 +88,8 @@
         font-size: 14px;
     }
 }
+
+
 
 .channel-pfp {  
     width: 50px;
