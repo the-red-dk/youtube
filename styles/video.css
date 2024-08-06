@@ -41,18 +41,18 @@ and (max-device-width: 480px) {
         grid-template-columns: 1fr 1fr;
 }
 } 
-/*
+
 @media (max-width: 750px) {
     .video-grid {
         grid-template-columns: 1fr 1fr;
 }
-} */
+} 
 
-@media (min-width: 751px) and (max-width: 999px) {
+/*@media (min-width: 751px) and (max-width: 999px) {
     .video-grid {
         grid-template-columns: 1fr 1fr 1fr;
     }
-}
+}*/
 
 
 @media (min-width: 1000px) {
