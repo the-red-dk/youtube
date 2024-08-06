@@ -34,7 +34,7 @@
     row-gap: 40px;
 }
 
-@media (max-width: 750px) {
+@media (min-width: 50px) and (max-width: 600px) {
     .video-grid {
         grid-template-columns: 1fr 1fr;
 }
