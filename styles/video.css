@@ -34,7 +34,9 @@
     row-gap: 40px;
 }
 
-@media (min-width: 410px) {
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px) {
     .video-grid {
         grid-template-columns: 1fr 1fr;
 }
